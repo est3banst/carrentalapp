@@ -76,7 +76,6 @@ export const manufacturers = [
       links: [
         { title: "Como funciona", url: "/" },
         { title: "Relacionado", url: "/" },
-        { title: "Alianza", url: "/" },
         { title: "Relación de negocios", url: "/" },
       ],
     },
